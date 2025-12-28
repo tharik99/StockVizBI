@@ -1,2 +1,2 @@
 # StockVizBI
-This repository contains a Power BI report, "Stock Visualizer," which provides comprehensive visualizations and analysis of various companies' stock prices, financial metrics, employee metrics, and background details.
+Stock Visualizer is a comprehensive Power BI dashboard designed to analyze and visualize stock market data for publicly listed companies. The report provides insights into stock price trends, financial performance, employee metrics, and company background information through interactive visuals. The dashboard allows users to explore company performance over time and compare key metrics in an intuitive and visually appealing way.
